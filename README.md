@@ -1,4 +1,4 @@
-# 🎓 Grade Calculator (Java)
+# 🎓 Grade Calculator using Java
 
 A simple Java console-based application that calculates total marks, average percentage, and assigns grades based on user input.
 
@@ -39,7 +39,7 @@ Create a program that:
 
 ---
 
-## 🧠 Grade Criteria
+## 🧠 Grade Criteria 
 
 | Percentage Range | Grade |
 |------------------|-------|
