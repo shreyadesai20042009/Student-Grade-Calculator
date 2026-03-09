@@ -47,3 +47,4 @@ public class GradeCalculator {
         scanner.close();
     }
 }
+
